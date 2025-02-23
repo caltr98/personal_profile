@@ -16,7 +16,7 @@ Calogero Turco is a PhD  Student in Computer Science at the University of Pisa. 
 - **Privacy Preservation**  
 - **Online Social Networks**  
 - **Internet of Things**
--  
+  
 ## Skills  
 - **Programming Languages**: Java, C++, JavaScript (Node.js, Express.js), C, Python, SQL, Haskell, Pandas  
 - **Tools**: Overleaf & LaTeX, Git, Linux command line, Word/PowerPoint, Python visualization (Matplotlib & Seaborn)  
