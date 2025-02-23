@@ -18,10 +18,10 @@ Calogero Turco is a PhD  Student in Computer Science at the University of Pisa. 
 - **Internet of Things**
   
 ## Skills  
-- **Programming Languages**: Java, C++, JavaScript (Node.js, Express.js), C, Python, SQL, Haskell, Pandas  
+- **Programming Languages**: Java, C++, C, JavaScript (Node.js), Python, SQL, Haskell  
 - **Tools**: Overleaf & LaTeX, Git, Linux command line, Word/PowerPoint, Python visualization (Matplotlib & Seaborn)  
-- **Software Libraries**: OpenAI API, Keras, ScikitLearn, TensorFlow  
-- **Blockchain & Distributed Ledger**: Decentralized Identifiers (DIDs), Hyperledger Indy, Veramo, Bitcoin, Solidity, Ethereum, Self-Sovereign Identity  
+- **Software Libraries**: OpenAI API, Keras, ScikitLearn, TensorFlow, Pandas  
+- **Blockchain & Distributed Ledger**: Decentralized Identifiers (DIDs), Verifiable Credentials, Hyperledger Indy, Veramo, Bitcoin, Solidity, Ethereum  
 - **System Programming**: POSIX Threads, Parallel Computing (OpenMP), Message Brokers (Publish-Subscribe), FastFlow, REST API  
 
 ## Publications  
