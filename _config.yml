@@ -1,3 +1,16 @@
 title: Calogero Turco
 logo: /assets/img/headshot.png
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  A home page for my personal profile. All source code can be found on my GitHub profile!
+  <br><br>  
+    <br><br>  
+    Email: calogero.turco@phd.unipi.it
+    <br><br>  
+    Phone: (936) 537 0533
+  <br><br>
+  <a href="https://www.linkedin.com/in/calogero-turco-5097b8229">View LinkedIn Profile</a>   
+  
+theme: jekyll-theme-minimal
+classes: wide
+
 theme: jekyll-theme-minimal
