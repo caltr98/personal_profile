@@ -28,5 +28,5 @@ Calogero Turco is a PhD  Student in Computer Science at the University of Pisa. 
 - **Location**: Pisa, Italy  
 
 ## Languages  
-- **English**: IELTS Band Score 7.5 (C1)  
+- **English**: C1  
 - **Italian**: Native  
