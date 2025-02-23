@@ -8,10 +8,6 @@
 ## Certifications:
 - **IELTS** - Band Score 7.5 (C1) | British Council (_September 2024_) 
 
-IELTS - Band Score 7.5 (C1)
-IELTS - Band Score 7.5 (C1)
-British CouncilBritish Council
-Data di rilascio: set 2024
 ## Short Bio  
 Calogero Turco is a PhD  Student in Computer Science at the University of Pisa. His research interests are identity management and trust supported by Distributed Ledger Technologies (DLT). He currently works with Self-Sovereign Identity (SSI), a novel identity paradigm promising to give people control over their data. In particular, he is exploring ways to use verifiable credentials on online social networks. Furthermore, he is exploring SSI as a way to give an identity to non-human entities such as online services and Internet of Things devices. Calogero works with the Pisa DLT Laboratory. He collaborated with the group before his PhD as they worked together on SSI both for his Master's Degree in Computer Science thesis and Bachelor's Degree thesis.  
  
