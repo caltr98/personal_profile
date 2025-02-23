@@ -5,9 +5,9 @@
 - **M.S., Computer Science - ICT Solutions Architect** | University of Pisa (_2022-2024_) **110/110 with honors**  
 - **B.S., Computer Science** | University of Pisa (_2017-2022_)  
 
-## Certifications  
-- **IELTS** - Band Score 7.5 (C1) | British Council (_September 2024_)
-  
+## Certifications:
+- **IELTS** - Band Score 7.5 (C1) | British Council (_September 2024_) 
+
 IELTS - Band Score 7.5 (C1)
 IELTS - Band Score 7.5 (C1)
 British CouncilBritish Council
@@ -30,3 +30,7 @@ Calogero Turco is a PhD  Student in Computer Science at the University of Pisa. 
 ## Contact  
 - **Email**: [calogero.turco@phd.unipi.it](mailto:calogero.turco@phd.unipi.it)
 - **Location**: Pisa, Italy  
+
+## Languages  
+- **English**: IELTS Band Score 7.5 (C1)  
+- **Italian**: Native  
