@@ -25,7 +25,8 @@ Calogero Turco is a PhD  Student in Computer Science at the University of Pisa. 
 
 ## Contact  
 - **Email**: [calogero.turco@phd.unipi.it](mailto:calogero.turco@phd.unipi.it)
-- **Location**: Pisa, Italy  
+- **Location**: Pisa, Italy - Department of Computer Science, Room 299
+
 
 ## Languages  
 - **English**: C1  
