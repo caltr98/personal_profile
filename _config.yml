@@ -9,5 +9,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/calogero-turco-5097b8229">View LinkedIn Profile</a>   
   
-theme: jekyll-theme-minimal
+remote_theme: yaoyao-liu/minimal-light
 classes: wide
