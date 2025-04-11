@@ -1,11 +1,11 @@
 title: Calogero Turco
 logo: /assets/img/headshot.png
 description: > 
-  A home page for my personal profile. All source code can be found on my GitHub profile!
-  
-  Email: [calogero.turco@phd.unipi.it](mailto:calogero.turco@phd.unipi.it)
-  
-  [View LinkedIn Profile](https://www.linkedin.com/in/calogero-turco-5097b8229)
+  A home page for my personal profile. All source code can be found on my GitHub profile!  
+  <br><br>  
+  Email: <a href="mailto:calogero.turco@phd.unipi.it">calogero.turco@phd.unipi.it</a>  
+  <br><br>  
+  <a href="https://www.linkedin.com/in/calogero-turco-5097b8229">View LinkedIn Profile</a>   
 
 remote_theme: yaoyao-liu/minimal-light
 classes: wide
